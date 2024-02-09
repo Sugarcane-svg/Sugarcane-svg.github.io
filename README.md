@@ -1,1 +1,3 @@
 The website is still in editing ....
+
+The website using a free template, please read Readme.txt
