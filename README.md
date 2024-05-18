@@ -1,3 +1,3 @@
-The website is still in editing ....
+# Welcome to my personal website!
 
-The website using a free template, please read Readme.txt
+Note: The website using a free template. For more information, please read Readme.txt
